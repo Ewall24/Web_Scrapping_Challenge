@@ -21,6 +21,7 @@ from bs4 import BeautifulSoup
 browser = Browser('chrome')
 
     Deliverable 1: Scrape titles and preview text from Mars news articles.
+   
     # Visit the website
 # https://static.bc-edx.com/data/web/mars_facts/temperature.html
 url = "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
