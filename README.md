@@ -80,6 +80,9 @@ browser = Browser('chrome')
 url = "https://static.bc-edx.com/data/web/mars_facts/temperature.html"
 browser.visit(url)   
 
+     <img width="938" alt="350066036-10122429-b8d4-49fc-a1ef-04c5d1719345" src="https://github.com/user-attachments/assets/7b11e6fd-5991-4b88-86b4-6ea7fa602bf8">
+
+
 Links to an external site.. Inspect the page to identify which elements to scrape. Note that the URL is https://static.bc-edx.com/data/web/mars_facts/temperature.html.
 
 # Create a Beautiful Soup object and use it to scrape the data in the HTML table. Note that this can also be achieved by using the Pandas read_html function. However, use Beautiful Soup here to continue sharpening your web scraping skills.
